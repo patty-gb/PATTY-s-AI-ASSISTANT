@@ -1,4 +1,4 @@
-# Jarvis AI Assistant
+# Patty's AI Assistant
 
 ## Overview
 A Python voice assistant that listens to your commands and performs tasks like opening apps, browsing websites, and telling time/date.
